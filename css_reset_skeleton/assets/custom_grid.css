@@ -1,0 +1,13 @@
+.ingredients-container{
+    float: left;
+    width: 25%;
+    padding: 10px;
+    box-sizing:border-box;
+}
+
+.main-container {
+    float: left;
+    width: 75%;
+    padding: 10px;
+    box-sizing: border-box;
+}
